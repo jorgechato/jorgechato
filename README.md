@@ -6,10 +6,10 @@ I do:
 - Golang & Java focus on heavy preference for backend and internal tools.
 - Kafka consultant & platform developer.
 - As a general rule I work with good practices with monitoring and devops.
-- Automate infra with Terraform & K8s Helm Charts.
+- Infrastructure automation with Terraform & K8s Helm Charts.
 
 Currently learning:
-- Vue.js
+- Rust
 - History of Asia
 
 I really enjoy using:
