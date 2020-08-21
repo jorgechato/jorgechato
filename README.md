@@ -1,4 +1,5 @@
-### Hi there
+### Yo
+[![HitCount](http://hits.dwyl.com/jorgechato/jorgechato.svg)](http://hits.dwyl.com/jorgechato/jorgechato)
 
 This is JorgeChato, a SRE expert and Green Hat Hacker.
 
