@@ -9,8 +9,8 @@ I do:
 - Infrastructure automation with Terraform & K8s Helm Charts.
 
 Currently learning:
-- Rust
-- History of Asia
+- [AsyncAPI](https://github.com/asyncapi/asyncapi)
+- 日本語
 
 I really enjoy using:
 - [NeoVim](https://neovim.io/)
