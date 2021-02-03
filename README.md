@@ -19,4 +19,4 @@ I really enjoy using:
 
 ---
 
-Seeking my next adventure in :jp:, :kr:, :thailand:, :singapore: or :taiwan:
+Seeking my next adventure in :jp:
