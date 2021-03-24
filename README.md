@@ -2,20 +2,26 @@
 
 This is Jorge Chato, a SRE expert and Green Hat Hacker.
 
-I do:
-- Golang, Python & Java focus on heavy preference for backend and internal tools.
-- Kafka platform expert.
-- As a general rule I work with good practices with monitoring and devops.
-- Infrastructure automation with Terraform & K8s Helm Charts.
+```python
+import json
+from dataclasses import asdict, dataclass
 
-Currently learning:
-- [AsyncAPI](https://github.com/asyncapi/asyncapi)
-- 日本語
 
-I really enjoy using:
-- [NeoVim](https://neovim.io/)
-- [Jetbrains](https://www.jetbrains.com/)
-- [Kubernetes](https://kubernetes.io/)
+@dataclass
+class Stack:
+    languages   : tuple = ("Python", "Go", "JS", "Java")
+    platforms   : tuple = ("Kafka", "AWS", "Jenkins")
+    misc        : tuple = ("Docker", "K8s", "Terraform")
+    ongoing     : tuple = ("AsyncAPI", "RestAPI", "日本語")
+    tools       : tuple = ("NeoVim", "Jetbrains")
+
+    def serialize(self):
+        return json.dumps(asdict(self), indent=4)
+
+
+stack = Stack()
+print(stack.serialize())
+```
 
 ---
 
