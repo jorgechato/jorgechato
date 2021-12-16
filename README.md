@@ -1,6 +1,6 @@
 ### Yo!
 
-This is Jorge Chato, a SRE expert and Green Hat Hacker.
+This is Jorge, a SRE expert and Green Hat Hacker.
 
 ```python
 import json
