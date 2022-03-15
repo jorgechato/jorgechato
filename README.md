@@ -25,4 +25,4 @@ print(stack.serialize())
 
 ---
 
-Seeking my next adventure in :jp: or :kr:
+Seeking my next adventure in :jp:
