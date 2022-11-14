@@ -12,7 +12,7 @@ class Stack:
     languages   : tuple = ("Python", "Go", "JS", "Java")
     platforms   : tuple = ("Kafka", "AWS", "Jenkins")
     misc        : tuple = ("Docker", "K8s", "Terraform")
-    ongoing     : tuple = ("AsyncAPI", "RestAPI", "日本語")
+    ongoing     : tuple = ("Rust", "AsyncAPI", "日本語")
     tools       : tuple = ("NeoVim", "Jetbrains")
 
     def serialize(self):
