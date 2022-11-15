@@ -2,25 +2,31 @@
 
 This is Jorge, a Software Engineer, SRE expert and Grey Hat Hacker.
 
-```python
-import json
-from dataclasses import asdict, dataclass
+```rust
+use serde::Serialize;
 
 
-@dataclass
-class Stack:
-    languages   : tuple = ("Python", "Go", "JS", "Java")
-    platforms   : tuple = ("Kafka", "AWS", "Jenkins")
-    misc        : tuple = ("Docker", "K8s", "Terraform")
-    ongoing     : tuple = ("Rust", "AsyncAPI", "日本語")
-    tools       : tuple = ("NeoVim", "Jetbrains")
+#[derive(Serialize)]
+struct Stack<'a> {
+    languages: Vec<&'a str>,
+    platforms: Vec<&'a str>,
+    misc: Vec<&'a str>,
+    ongoing: Vec<&'a str>,
+    tools: Vec<&'a str>,
+}
 
-    def serialize(self):
-        return json.dumps(asdict(self), indent=4)
+fn main() {
+    let stack: Stack = Stack {
+        languages: vec!["Python", "Go", "JS", "Java"],
+        platforms: vec!["Kafka", "AWS", "Jenkins"],
+        misc: vec!["Docker", "K8s", "Terraform"],
+        ongoing: vec!["Rust", "AsyncAPI", "日本語"],
+        tools: vec!["NeoVim", "Jetbrains"],
+    };
 
-
-stack = Stack()
-print(stack.serialize())
+    let serialized = serde_json::to_string(&stack).unwrap();
+    println!("{}", serialized);
+}
 ```
 
 ---
