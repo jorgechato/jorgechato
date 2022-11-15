@@ -24,8 +24,10 @@ fn main() {
         tools: vec!["NeoVim", "Jetbrains"],
     };
 
-    let serialized = serde_json::to_string(&stack).unwrap();
-    println!("{}", serialized);
+    match serde_json::to_string(&stack) {
+        Ok(s) => println!("{}", s),
+        Err(e) => panic!("{:?}",e),
+    }
 }
 ```
 
