@@ -31,6 +31,5 @@ fn main() {
 }
 ```
 
----
 
 Seeking my next adventure in :jp:
