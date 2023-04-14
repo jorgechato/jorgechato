@@ -20,7 +20,7 @@ fn main() {
         languages: vec!["Python", "Go", "JS", "Java"],
         platforms: vec!["Kafka", "AWS", "Jenkins"],
         misc: vec!["Docker", "K8s", "Terraform"],
-        ongoing: vec!["Rust", "AsyncAPI", "日本語"],
+        ongoing: vec!["Rust", "RX", "gRPC", "日本語"],
         tools: vec!["NeoVim", "Jetbrains"],
     };
 
