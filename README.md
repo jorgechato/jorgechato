@@ -33,12 +33,9 @@ fn main() {
 
 **If you want to know more about me, check:**
 
-<p>
-    
-[![Where am I Today?](https://img.shields.io/static/v1?label=%F0%9F%97%BA%20WHERE&message=am%20I%20Today%3F&color=2563eb&style=flat)](https://whereisjorge.today/)
-[![What am I doing Today?](https://img.shields.io/static/v1?label=%E2%9C%8D%20WHAT&message=am%20I%20doing%20Today%3F&color=059669&style=flat)](https://whatisjorgedoing.today/)
+- 🗺️ [Where am I Today?](https://whereisjorge.today/)
+- ✍️ [What am I doing Today?](https://whatisjorgedoing.today/)
+- 📦 [Are my projects alive Today?](https://jorgechato.com/status)
 
-</p>
-</br>
 
 Seeking my next adventure in :jp: or :eu:
