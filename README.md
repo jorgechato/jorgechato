@@ -17,10 +17,10 @@ struct Stack<'a> {
 
 fn main() {
     let stack: Stack = Stack {
-        languages: vec!["Python", "Go", "JS", "Java"],
+        languages: vec!["GO", "Python", "TS", "Java"],
         platforms: vec!["Kafka", "AWS", "Jenkins"],
         misc: vec!["Docker", "K8s", "Terraform"],
-        ongoing: vec!["Rust", "RX", "gRPC", "日本語"],
+        ongoing: vec!["Monads", "RX", "gRPC", "日本語"],
         tools: vec!["NeoVim", "Jetbrains"],
     };
 
