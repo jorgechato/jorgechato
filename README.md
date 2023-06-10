@@ -2,32 +2,35 @@
 
 This is Jorge, a Software Engineer, code lover and Grey Hat Hacker.
 
-```rust
-use serde::Serialize;
+```go
+package main
 
+import (
+	"encoding/json"
 
-#[derive(Serialize)]
-struct Stack<'a> {
-    languages: Vec<&'a str>,
-    platforms: Vec<&'a str>,
-    misc: Vec<&'a str>,
-    ongoing: Vec<&'a str>,
-    tools: Vec<&'a str>,
+	"github.com/reactivex/rxgo/v2"
+)
+
+type Stack struct {
+	Category string   `json:"category"`
+	Items    []string `json:"items"`
 }
 
-fn main() {
-    let stack: Stack = Stack {
-        languages: vec!["GO", "Python", "TS", "Java"],
-        platforms: vec!["Kafka", "AWS", "Jenkins"],
-        misc: vec!["Docker", "K8s", "Terraform"],
-        ongoing: vec!["Monads", "RX", "gRPC", "日本語"],
-        tools: vec!["NeoVim", "Jetbrains"],
-    };
+func main() {
+	observable := rxgo.Just(
+		Stack{Category: "Languages", Items: []string{"GO", "Python", "TS", "Java"}},
+		Stack{Category: "Platforms", Items: []string{"Kafka", "AWS", "Jenkins"}},
+		Stack{Category: "Misc", Items: []string{"K8s", "Terraform", "Docker"}},
+		Stack{Category: "Ongoing", Items: []string{"Monads", "RX", "gRPC", "日本語"}},
+		Stack{Category: "Tools", Items: []string{"NeoVim", "Jetbrains"}},
+	)().Marshal(json.Marshal)
 
-    match serde_json::to_string(&stack) {
-        Ok(s) => println!("{}", s),
-        Err(e) => panic!("{:?}",e),
-    }
+	for item := range observable.Observe() {
+		if item.Error() {
+			panic(item.E)
+		}
+		println(string(item.V.([]byte)))
+	}
 }
 ```
 
