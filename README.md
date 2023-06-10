@@ -1,6 +1,6 @@
 ### Hi there!
 
-This is Jorge, a Software Engineer, code lover and Grey Hat Hacker.
+This is Jorge, a Senior Software Engineer, code lover and Grey Hat Hacker.
 
 ```go
 package main
