@@ -18,10 +18,10 @@ type Stack struct {
 
 func main() {
 	observable := rxgo.Just(
-		Stack{Category: "Languages", Items: []string{"GO", "Python", "TS", "Java"}},
+		Stack{Category: "Languages", Items: []string{"GO", "Proto", "Python", "TS"}},
 		Stack{Category: "Platforms", Items: []string{"Kafka", "AWS", "Jenkins"}},
-		Stack{Category: "Misc", Items: []string{"K8s", "Terraform", "Docker"}},
-		Stack{Category: "Ongoing", Items: []string{"Monads", "RX", "gRPC", "日本語"}},
+		Stack{Category: "Misc", Items: []string{"gRPC", "K8s", "Terraform", "Docker"}},
+		Stack{Category: "Ongoing", Items: []string{"Monads", "RX", "日本語"}},
 		Stack{Category: "Tools", Items: []string{"NeoVim", "Jetbrains"}},
 	)().Marshal(json.Marshal)
 
