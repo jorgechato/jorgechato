@@ -1,6 +1,6 @@
 ### Hi there!
 
-This is Jorge, a Senior Software Engineer, code lover and Grey Hat Hacker.
+This is Jorge, a Senior Software Engineer and code lover.
 
 ```go
 package main
@@ -41,4 +41,4 @@ func main() {
 - 📦 [Are my projects alive Today?](https://jorgechato.com/status)
 
 
-Seeking my next adventure in :jp: or :eu:
+Seeking my next adventure in :eu:
