@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package main;
+option go_package = "github.com/jorgechato/jorgechato;main";
+
+message Stack {
+  repeated string languages = 1;
+  repeated string platforms = 2;
+  repeated string misc = 3;
+  repeated string ongoing = 4;
+  repeated string tools = 5;
+}
