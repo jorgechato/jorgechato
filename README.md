@@ -15,9 +15,9 @@ func main() {
 	stack := &Stack{
 		Languages: []string{"Go", "TS", "Python", "Java"},
 		Platforms: []string{"Cloudflare", "Kafka", "AWS"},
-		Misc:      []string{"gRPC", "K8s", "Terraform"},
-		Ongoing:   []string{"three.js", "NixOs", "日本語"},
-		Tools:     []string{"NeoVim", "Jetbrains"},
+		Misc:      []string{"gRPC", "K8s", "NixOs", "Terraform"},
+		Ongoing:   []string{"Zig", "three.js", "日本語"},
+		Tools:     []string{"NeoVim", "Nushell", "Jetbrains"},
 	}
 
 	jsonData, err := json.Marshal(stack)
@@ -37,4 +37,4 @@ func main() {
 - 📦 [Are my projects alive Today?](https://2023.jorgechato.com/status)
 
 
-Seeking my next adventure in :eu:
+Seeking my next adventure in :eu: :singapore: :jp:
