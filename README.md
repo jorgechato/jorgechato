@@ -16,7 +16,7 @@ func main() {
 		Languages: []string{"Go", "TS", "Python", "Java"},
 		Platforms: []string{"Cloudflare", "Kafka", "AWS"},
 		Misc:      []string{"gRPC", "K8s", "NixOs", "Terraform"},
-		Ongoing:   []string{"Zig", "three.js", "日本語"},
+		Ongoing:   []string{"Zig", "three.js", "Tiếng Việt"},
 		Tools:     []string{"NeoVim", "Nushell", "Jetbrains"},
 	}
 
