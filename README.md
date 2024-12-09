@@ -17,7 +17,7 @@ func main() {
 		Platforms: []string{"Cloudflare", "Kafka", "AWS"},
 		Misc:      []string{"gRPC", "K8s", "NixOs", "Terraform"},
 		Ongoing:   []string{"Zig", "three.js", "Tiếng Việt"},
-		Tools:     []string{"NeoVim", "Nushell", "Jetbrains"},
+		Tools:     []string{"NeoVim", "Nushell", "Ghostty"},
 	}
 
 	jsonData, err := json.Marshal(stack)
