@@ -13,7 +13,7 @@ import (
 
 func main() {
 	stack := &Stack{
-		Languages: []string{"Go", "TS", "Python", "Java"},
+		Languages: []string{"Go", "TS", "Rust", "Python", "Java"},
 		Platforms: []string{"Cloudflare", "Kafka", "AWS"},
 		Misc:      []string{"gRPC", "K8s", "NixOs", "Terraform"},
 		Ongoing:   []string{"Zig", "three.js", "Tiếng Việt"},
