@@ -37,4 +37,4 @@ func main() {
 - 📦 [Are my projects alive Today?](https://2023.jorgechato.com/status)
 
 
-Seeking my next adventure in :eu: :singapore: :jp:
+Seeking my next adventure in :vietnam: :singapore: :jp: :eu:
