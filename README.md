@@ -33,8 +33,13 @@ func main() {
 
 - 🦾 [My Page](https://jorgechato.com/)
 - 🗺️ [Where am I Today?](https://whereisjorge.today/)
-- ✍️  [What am I doing Today?](https://whatisjorgedoing.today/)
-- 📦 [Are my projects alive Today?](https://2023.jorgechato.com/status)
+- ✍️  [What am I doing Today?](https://what.jorgechato.com/)
+- 📦 [Status page](https://status.jrg.tools/)
 
 
 Seeking my next adventure in :vietnam: :singapore: :jp: :eu:
+
+```sh
+# presentation
+$ presenterm INTRODUCTION.md
+```
