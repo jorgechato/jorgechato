@@ -2,11 +2,13 @@
 title: Who is Jorge?
 theme:
   name: terminal-dark
-  mermaid:
-    background: "red"
+  override:
+    default:
+      colors:
+        foreground: "9ca3af"
 ---
 
-Jorge Chato Astrain (ホルへ)
+Jorge (ホルへ) Chato Astrain
 ---
 <!-- column_layout: [2, 1] -->
 <!-- column: 0 -->
@@ -21,14 +23,16 @@ Jorge Chato Astrain (ホルへ)
 
 [How to pronounce my name?](https://x.jrg.tools/Rs9oBE)
 <!-- column: 1 -->
+Over a **decade** crafting code.
 # Senior BE - Mercari
-* XB (Cross border) team
-* IDP (Identity Platform) team
+* Cross border team
+* Identity Platform team
 # Senior BE - Virtusize
 * Event Streaming team
 * BE team
 # SRE - Adidas
 * Kafka team
+* Platform team
 * R&D team
 # FE - Dashmote
 
@@ -91,4 +95,4 @@ https://x.jrg.tools/BPZRQZ
 ![](./introduction/qr.png)
 
 <!-- pause -->
-If you're wondering, "How the F\*\*K did I make a presentation in the terminal?" — **That's a secret**
+I know what You are thinking, "How the F\*\*K did He make a presentation in the terminal?" — **And that's a secret**
