@@ -1,7 +1,6 @@
 ---
 title: Who is Jorge?
 theme:
-  name: terminal-dark
   override:
     default:
       colors:
