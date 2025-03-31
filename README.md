@@ -33,7 +33,7 @@ func main() {
 
 - 🦾 [My Page](https://jorgechato.com/)
 - 🗺️ [Where am I Today?](https://whereisjorge.today/)
-- ✍️  [What am I doing Today?](https://what.jorgechato.com/)
+- ✍️ [What am I doing Today?](https://what.jorgechato.com/)
 - 📦 [Status page](https://status.jrg.tools/)
 
 
