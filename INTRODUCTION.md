@@ -34,6 +34,7 @@ Over a **decade** crafting code.
 * Platform team
 * R&D team
 # FE - Dashmote
+* Solo FE
 
 <!-- reset_layout -->
 # Currently living in Osaka
