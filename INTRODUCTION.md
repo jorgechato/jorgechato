@@ -18,7 +18,7 @@ Jorge (ホルへ) Chato Astrain
 * [Github](https://github.com/jorgechato)
 * [Linkedin](https://www.linkedin.com/in/jorgechato/)
 * [Where I am Today](https://whereisjorge.today/)
-* [How to work with me?](https://x.jrg.tools/6IsFTc)
+* [How to work with me?](https://x.jrg.tools/eZCK9C)
 
 [How to pronounce my name?](https://x.jrg.tools/Rs9oBE)
 <!-- column: 1 -->
@@ -67,11 +67,10 @@ https://x.jrg.tools/bHbtAb
 
 ## My latest reading
 
-**Africanus trilogy** *by Santiago Posteguillo*
+**Julius Caesar** trilogy *by Santiago Posteguillo*
 
-1. Africanus: Son of the Consul
-2. The Accursed Legions
-3. The Betrayal of Rome (currently reading)
+1. I am Rome itself
+2. Cursed Rome
 
 <!-- column: 1 -->
 # Motorcycles
