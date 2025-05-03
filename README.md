@@ -37,7 +37,7 @@ func main() {
 - 📦 [Status page](https://status.jrg.tools/)
 
 
-Seeking my next adventure in :vietnam: :singapore: :jp: :eu:
+Seeking my next adventure in :vietnam: :eu:
 
 ```sh
 # presentation
