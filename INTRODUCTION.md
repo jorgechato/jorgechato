@@ -94,6 +94,3 @@ Targeting `iOS`, `macOS`, `Windows` and `Linux`.
 https://x.jrg.tools/BPZRQZ
 ---
 ![](./introduction/qr.png)
-
-<!-- pause -->
-I know what You are thinking, "How the F\*\*K did He make a presentation in the terminal?" — **And that's a secret**
