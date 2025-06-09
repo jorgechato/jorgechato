@@ -15,10 +15,10 @@ Jorge (ホルへ) Chato Astrain
 
 * **Email** (work@jorgechato.com)
 * [Main page](https://jorgechato.com)
-* [Github](https://github.com/jorgechato)
-* [Linkedin](https://www.linkedin.com/in/jorgechato/)
+* [Github](https://x.jrg.tools/1eLId0)
+* [Linkedin](https://x.jrg.tools/KuqtGa)
 * [Where I am Today](https://whereisjorge.today/)
-* [How to work with me?](https://x.jrg.tools/eZCK9C)
+* [How to work with me?](https://x.jrg.tools/EmKlWc)
 
 [How to pronounce my name?](https://x.jrg.tools/Rs9oBE)
 <!-- column: 1 -->
