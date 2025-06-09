@@ -15,8 +15,8 @@ func main() {
 	stack := &Stack{
 		Languages: []string{"Go", "TS", "Rust", "Python", "Java"},
 		Platforms: []string{"Cloudflare", "Kafka", "AWS"},
-		Misc:      []string{"gRPC", "K8s", "NixOs", "Terraform"},
-		Ongoing:   []string{"Zig", "three.js", "Tiếng Việt"},
+		Misc:      []string{"gRPC", "MCP", "NixOs", "Terraform"},
+		Ongoing:   []string{"Zig", "Tiếng Việt"},
 		Tools:     []string{"NeoVim", "Nushell", "Ghostty"},
 	}
 
