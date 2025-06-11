@@ -15,13 +15,13 @@
 #### If you want to know more about me, check:
 
 <a href='https://whereisjorge.today/' target='_blank'>
-  <img width='30%' src='https://github.com/jorgechato/jorgechato/blob/main/public/where.webp' alt='Where am I Today?' />
+  <img width='30%' src='https://raw.githubusercontent.com/jorgechato/jorgechato/refs/heads/master/public/where.webp' alt='Where am I Today?' />
 </a>
 <a href='https://jorgechato.com' target='_blank'>
-  <img width='30%' src='https://github.com/jorgechato/jorgechato/blob/main/public/personal.webp' alt='Personal web page' />
+  <img width='30%' src='https://raw.githubusercontent.com/jorgechato/jorgechato/refs/heads/master/public/personal.webp' alt='Personal web page' />
 </a>
 <a href='https://status.jrg.tools/' target='_blank'>
-  <img width='30%' src='https://github.com/jorgechato/jorgechato/blob/main/public/status.webp' alt='Status page' />
+  <img width='30%' src='https://raw.githubusercontent.com/jorgechato/jorgechato/refs/heads/master/public/status.webp' alt='Status page' />
 </a>
 
 Seeking my next adventure in :vietnam: :eu:
