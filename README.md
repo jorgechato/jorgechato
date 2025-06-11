@@ -23,10 +23,3 @@
 <a href='https://status.jrg.tools/' target='_blank'>
   <img width='30%' src='https://raw.githubusercontent.com/jorgechato/jorgechato/refs/heads/master/public/status.webp' alt='Status page' />
 </a>
-
-Seeking my next adventure in :vietnam: :eu:
-
-```sh
-# presentation
-$ presenterm INTRODUCTION.md
-```
