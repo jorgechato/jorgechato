@@ -14,6 +14,7 @@
 
 #### If you want to know more about me, check:
 
+<p align="center">
 <a href='https://whereisjorge.today/' target='_blank'>
   <img width='30%' src='https://raw.githubusercontent.com/jorgechato/jorgechato/refs/heads/master/public/where.webp' alt='Where am I Today?' />
 </a>
@@ -23,3 +24,4 @@
 <a href='https://status.jrg.tools/' target='_blank'>
   <img width='30%' src='https://raw.githubusercontent.com/jorgechato/jorgechato/refs/heads/master/public/status.webp' alt='Status page' />
 </a>
+</p>
