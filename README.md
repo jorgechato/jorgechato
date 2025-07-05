@@ -4,11 +4,11 @@
 
 <p align="center">
    <a href="https://jorgechato.com" target="blank">
-    <img align="center" src="https://jorgechato.com/logo.webp" alt="Personal web page" height="28px" />
+    <img align="center" src="https://jorgechato.com/logo.webp" alt="Personal web page" width="28px" />
   </a>
   <span style="width: 8px;"> </span>
   <a href="https://x.com/jorgechato" target="blank">
-    <img align="center" src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="Canal de Twitter de midudev" height="23px" />
+    <img align="center" src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="Canal de Twitter de midudev" width="23px" />
   </a>
 </p>
 
