@@ -7,7 +7,7 @@ theme:
         foreground: "9ca3af"
 ---
 
-Jorge (ホルへ) Chato Astrain
+🇪🇸 Jorge (ホルへ) / 🇻🇳 Khoa
 ---
 <!-- column_layout: [2, 1] -->
 <!-- column: 0 -->
@@ -19,6 +19,7 @@ Jorge (ホルへ) Chato Astrain
 * [Linkedin](https://x.jrg.tools/KuqtGa)
 * [Where I am Today](https://whereisjorge.today/)
 * [How to work with me?](https://x.jrg.tools/EmKlWc)
+* [Newsletter](https://elmailde.jrg.tools)
 
 [How to pronounce my name?](https://x.jrg.tools/Rs9oBE)
 <!-- column: 1 -->
@@ -63,7 +64,7 @@ My interests
 * **The Wise Man’s Fear** *by Patrick Rothfuss*
 * **The Blinding Knife** *by Brent Weeks*
 
-https://x.jrg.tools/bHbtAb
+[Goodreads](https://x.jrg.tools/bHbtAb)
 
 ## My latest reading
 
@@ -81,15 +82,17 @@ I drove motorcycles across **4 (very different) countries**.
 This is my current **toy in Japan**.
 
 # My recent project
-I'm working on a multiplatform app for **Storing my family heritage**.
+I just released a browser extension to help YouTubers generate **VIRAL titles and thumbnails**.
 <!-- pause -->
 ## Stack
-* Tauri **Rust**
-* React **Typescript**
-* Turso **SQLite**
-* Custom WebAuth **NextJs**
+* Plasmo
+  * React `Typescript`
+* Turso `SQLite`
+* Clerk
+* LLM `OpenAI`
+* Analytics `PostHog`
+* Payments `Stripe`
 
-Targeting `iOS`, `macOS`, `Windows` and `Linux`.
 <!-- end_slide -->
 https://x.jrg.tools/BPZRQZ
 ---
